@@ -10,7 +10,7 @@ Trata-se de um padrão de design comportamental que permite que você separe alg
 
 ### 3.8.2 Exemplo abordado:
 
-Para tal padrão de projeto, implementei um exemplo relacionado
+Para tal padrão de projeto, implementei um exemplo relacionado a três tipos de usuário de um sistema de hotelaria
 
 ### 3.8.3 Diagrama de classe do exemplo
 
