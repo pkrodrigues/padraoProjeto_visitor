@@ -13,3 +13,5 @@ Trata-se de um padrão de design comportamental que permite que você separe alg
 Para tal padrão de projeto, implementei um exemplo relacionado
 
 ### 3.8.3 Diagrama de classe do exemplo
+
+![img.png](img.png)
