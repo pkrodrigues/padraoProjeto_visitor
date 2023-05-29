@@ -2,7 +2,7 @@ package designpattern.behaviroral;
 
 public interface Visitor {
     String exibirHospede(Hospede hospede);
-    String exibirRecepicionista(Recepicionista recepicionista);
+    String exibirRecepcionista(Recepcionista recepcionista);
 
     String exibirDiarista(Diarista diarista);
 }
