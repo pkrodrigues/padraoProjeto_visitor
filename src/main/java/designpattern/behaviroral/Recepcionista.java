@@ -1,6 +1,6 @@
 package designpattern.behaviroral;
 
-public class Recepcionista {
+public class Recepcionista implements Pessoa{
     private int codigo;
     private String nome;
     private int quantidadesIdiomasFalados;

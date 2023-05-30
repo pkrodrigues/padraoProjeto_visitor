@@ -1,6 +1,6 @@
 package designpattern.behaviroral;
 
-public class Hospede {
+public class Hospede implements Pessoa {
     private int id;
     private String nome;
     private Quarto numeroQuarto;
@@ -28,8 +28,8 @@ public class Hospede {
         this.nome = nome;
     }
 
-    public Quarto getNumeroQuarto() {
-        return numeroQuarto;
+    public int getNumeroQuarto() {
+        return this.numeroQuarto.getNumeroQuarto();
     }
 
     public void setNumeroQuarto(Quarto numeroQuarto) {
